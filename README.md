@@ -1,2 +1,2 @@
 # demo
-demo to play with git
+this is a demo playground
